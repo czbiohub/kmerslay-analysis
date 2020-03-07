@@ -182,7 +182,6 @@ dependencies:
   - zeromq
   - zict
   - zope.interface
-  - _license
   - asn1crypto
   - blas
   - bz2file
